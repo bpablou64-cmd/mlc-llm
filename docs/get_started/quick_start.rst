@@ -1,7 +1,7 @@
 .. _quick-start:
 
 Quick Start
-===========
+=========== 
 
 Examples
 --------
